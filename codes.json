@@ -6,8 +6,22 @@
    },
    "KaiTheDeveloper": {
       "Active": true,
-      "RewardType": "Roux",
+      "RewardType": "Robux",
       "RewardValue": 38389438298239432492343924739484934823948239483294832948
+   },
+   "Poor": {
+      "Active": false,
+      "RewardType": "Roux",
+      "RewardValue": -10000000000000000000000000000000000000000000000000000000000
+   },
+   "MrBeast": {
+      "Active": true,
+      "RewardType": "Robux",
+      "RewardValue": 33283
+   },
+   "YourMom": {
+      "Active": true,
+      "RewardType": "Robux",
+      "RewardValue": 50000
    }
-
 }
