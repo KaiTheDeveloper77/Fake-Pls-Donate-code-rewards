@@ -1,0 +1,13 @@
+{
+   "TrueKaiFan": {
+      "Active": true,
+      "RewardType": "Robux",
+      "RewardValue": 50
+   },
+   "DEF456": {
+      "Active": true,
+      "RewardType": "Booth",
+      "RewardValue": "VIPBooth"
+   }
+
+}
